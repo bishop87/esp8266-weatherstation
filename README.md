@@ -3,7 +3,7 @@
 This project started from 
 https://github.com/ThingPulse/esp8266-weather-station
 
-![image](res/IMG_20200111_151643.jpg =400x)
+<img src="./res/IMG_20200111_151643.jpg" width="400">
 
 short demo video: https://youtu.be/Uu4gRWPlz6A
 
@@ -20,5 +20,5 @@ You need to install ESP8266 Weather Station as Library in Library Manager from A
 
 ### 3D Case
 in 3d-case-files you cn find stl files about my 3D case design
-![image](res/stl-bottom.png?raw=true "stl-bottom")
-![image](res/stl-top.png?raw=true "stl-top")
+<img src="./res/stl-bottom.png" width="400">
+<img src="./res/stl-top.png" width="400">
