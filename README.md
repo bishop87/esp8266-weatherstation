@@ -3,7 +3,7 @@
 This project started from 
 https://github.com/ThingPulse/esp8266-weather-station
 
-![image](res/IMG_20200111_151643.jpg?raw=true "WeatherStation" = 400x)
+![image](res/IMG_20200111_151643.jpg =400x)
 
 short demo video: https://youtu.be/Uu4gRWPlz6A
 
