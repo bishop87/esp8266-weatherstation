@@ -4,6 +4,7 @@ This project started from
 https://github.com/ThingPulse/esp8266-weather-station
 
 <img src="./res/IMG_20200111_151643.jpg" width="400">
+<img src="./res/IMG_20190427_174442.jpg" width="400">
 
 short demo video: https://youtu.be/Uu4gRWPlz6A
 
@@ -19,7 +20,7 @@ You need to install ESP8266 Weather Station as Library in Library Manager from A
 * DHT22 Humidity and Temperature sensor
 
 ### 3D Case
-in 3d-case-files you cn find stl files about my 3D case design
+in 3d-case-files you can find stl files about my 3D case design
 
 <img src="./res/stl-bottom.png" width="400">
 <img src="./res/stl-top.png" width="400">
